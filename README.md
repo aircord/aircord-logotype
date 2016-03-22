@@ -1,7 +1,7 @@
 # aircord-logotype
 ##About
 このリポジトリではaircordのオリジナルフォントを公開しています。
-利用規約についてはこちら([terms.md](terms.md))をご覧ください。
+利用規約についてはこちら：[terms.md](terms.md)
 
 
 You can download aircord logotype here.
