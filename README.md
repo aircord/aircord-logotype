@@ -1,6 +1,6 @@
 # aircord-logotype
 ##About
-このリポジトリではaircordのオリジナルフォントを公開しています。
+このリポジトリではaircordのオリジナルフォントを公開しています。<br> 
 利用規約についてはこちら：[terms.md](terms.md)
 
 
