@@ -4,7 +4,7 @@
 利用規約についてはこちら：[terms.md](terms.md)
 
 
-You can download aircord logotype here.
+You can download aircord logotype here.<br> 
 Terms of Use: [terms.md](terms.md)
 
 
