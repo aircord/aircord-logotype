@@ -15,7 +15,7 @@ aircordフォントは加工して、独立の取引対象として、頒布（�
 If you wish to use aircord font then please follow the guidelines below.
 
 License / Disclaimer :
-aircord does not come with a warranty. We have absolutely no responsibility for any damages or problems resulting from the use of the font.
+aircord font does not come with a warranty. We have absolutely no responsibility for any damages or problems resulting from the use of the font.
 It may be used for any display, print, etc. whether it is for profit or for private use.
 You are free to redistribute the font, provided it is unaltered and not for profit. In accordance with this license, there is no need to give us credit or include our company name.
 The font data may be altered or edited freely, provided it is for private use.
